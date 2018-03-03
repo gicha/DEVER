@@ -1,3 +1,5 @@
 DEVER
+
 App for foodhack
-TODO: write a normal README
+
+TODO: write a normal 'ламповый' README
