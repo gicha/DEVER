@@ -2,9 +2,13 @@ name: test_app
 description: A new Flutter application.
 
 dependencies:
-  flutter_blue:
+  flutter_circular_chart:
           git:
-            url: git://github.com/pauldemarco/flutter_blue
+            url: git://github.com/xqwzts/flutter_circular_chart.git
+
+
+  flutter_webview_plugin: "^0.1.2"
+  location: "^1.1.7"
 
   flutter:
     sdk: flutter
