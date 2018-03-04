@@ -1,8 +1,5 @@
-# test_app
+DEVER
 
-A new Flutter application.
+App for foodhack
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+TODO: write a normal 'ламповый' README
